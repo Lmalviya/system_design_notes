@@ -1,0 +1,2 @@
+sold principles: https://medium.com/@shivambhadani_/solid-principles-demystified-finally-understand-oops-design-the-right-way-8443fc642630
+design pattern: https://medium.com/@shivambhadani_/all-creational-design-patterns-in-one-blog-simple-explanations-examples-4f04de33aa26
